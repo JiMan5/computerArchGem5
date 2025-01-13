@@ -19,7 +19,7 @@ int calculateFibonacci(int n) {
 }
 
 int main() {
-    int n = 15;
+    int n = 7;
 
     int result = calculateFibonacci(n);
     if (result != -1) {
