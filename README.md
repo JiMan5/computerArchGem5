@@ -171,3 +171,11 @@
 
 Κι εδώ παρατίθονται τα γραφήματα:
 ![sim seconds graph](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/sim_seconds.png)
+
+![cpi graph](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/system_cpu_cpi.png)
+
+![L1 data miss rate](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/system_cpu_dcache_overall_miss_rate_total.png)
+
+![L1 instructions miss rate](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/system_cpu_icache_overall_miss_rate_total.png)
+
+![L2 miss rate](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/system_l2_overall_miss_rate_total.png)
