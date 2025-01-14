@@ -179,3 +179,9 @@
 ![L1 instructions miss rate](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/system_cpu_icache_overall_miss_rate_total.png)
 
 ![L2 miss rate](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/system_l2_overall_miss_rate_total.png)
+
+Από τον πίνακα με τα δεδομένα, που έπειτα αναπαρίστανται και σε γραφήματα, παρατηρώ πως το χειρότερο από τα benchmarks είναι το
+specsjeng, το οποίο έχει τον μεγαλύτερο ρυθμό αστοχίας της L1 data cache και L2 cache. Το specmcf, παρόλο που έχει τη χειρότερη απόδοση με μεγάλη διαφορά όσον αφορά τον ρυθμό αστοχίας της L1 instruction cache επιτυγχάνει τον δεύτερο καλύτερο CPI. Αυτό συμβαίνει επειδή η L2 cache είναι πολύ πιο αργή από την L1 και η έλλειψη απόδοσης σε αυτήν μπορεί να καθιστά την CPU πολύ αργή. Το spechmmer αποτελεί την καλύτερη εκτέλεση με cpi = 1.187917.
+
+#### Υποερώτημα 3
+ffdfdf
