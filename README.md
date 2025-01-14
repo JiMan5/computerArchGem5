@@ -168,4 +168,6 @@
 |  spechmmer |  0.059396  |  1.187917  |  0.001637  |  0.000221  |  0.077760  |
 |  specsjeng  |  0.513528  |  10.270554  |  0.121831  |  0.000020  |  0.999972  |
 | speclibm   |  0.174671  |  3.493415  |  0.060972  |  0.000094  |  0.999944  |
+
+Κι εδώ παρατίθονται τα γραφήματα:
 ![sim seconds graph](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/sim_seconds.png)
