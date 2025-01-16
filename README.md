@@ -331,7 +331,7 @@ Best score for speclibm: speclibm_0 = 7505.31
 
 
 Τελικά το καλύτερο score το λαμβάνω από το benchmark specmcf με την πρώτη υλοποίηση και είναι ίσο με 821.91. Το cpi που καταφέρνω είναι ίσο με cpi = 1.160209 και το κόστος είναι μονάχα cost = 708.42.
-Όλα τα score που λαμβάνω υπάρχουν στο [αρχείο](link to be fixed)
+Όλα τα score που λαμβάνω υπάρχουν στο αντίστοιχο [αρχείο](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_step3/full_scores.txt)
 
 ## References
 1. GEM5: Inside the Minor CPU model [link](https://pages.cs.wisc.edu/~swilson/gem5-docs/minor.html)
