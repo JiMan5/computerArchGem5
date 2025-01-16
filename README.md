@@ -261,8 +261,16 @@ specsjeng, το οποίο έχει τον μεγαλύτερο ρυθμό ασ�
 
 Αφού γράφτηκε το bash script για όλες τις εκτελέσεις, λαμβάνουμε τα αποτελέσματα των προσομοιώσεων τα οποία θα απεικονιστούν και στο επόμενο υποερώτημα.
 #### Υποερώτημα 2
-
-
-
-
-
+Παρακάτω θα παρατεθούν γραφήματα για το __cpi__ και τα __cache misses__.
+#### CPI
+![cpi_all](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_step2/part2_step2_graphs/cpi_graphs/final_merged.png)
+fdfdfd
+#### L1 Data Cache miss rate
+![dcache_all](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_step2/part2_step2_graphs/dcache_miss_graphs/final_merge.png)
+dfdsfdsf
+#### L1 Instruction Cache miss rate
+![icache_all](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_step2/part2_step2_graphs/icache_miss_graphs/final_merged.png)
+sffsdfds
+#### L2 Cache miss rate
+![l2_all](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_step2/part2_step2_graphs/l2_miss_graphs/final_merge.png)
+dfdfsfs
