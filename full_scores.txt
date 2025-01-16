@@ -1,0 +1,47 @@
+Benchmark specbzip:
+specbzip_0 score = 1034.96, cost = 611.49, cpi = 1.692537
+specbzip_1 score = 1333.87, cost = 803.49, cpi = 1.660100
+specbzip_2 score = 3860.76, cost = 2340.42, cpi = 1.649604
+specbzip_5 score = 13521.92, cost = 8489.55, cpi = 1.592772
+specbzip_4 score = 13725.81, cost = 8487.42, cpi = 1.617195
+specbzip_3 score = 13789.45, cost = 8486.42, cpi = 1.624885
+Best CPI for specbzip: specbzip_5 = 1.592772
+Best score for specbzip: specbzip_0 = 1034.96
+
+Benchmark specmcf:
+specmcf_0 score = 821.91, cost = 708.42, cpi = 1.160209
+specmcf_1 score = 1015.46, cost = 900.49, cpi = 1.127683
+specmcf_2 score = 2595.97, cost = 2246.42, cpi = 1.155606
+specmcf_5 score = 9510.50, cost = 8582.55, cpi = 1.108120
+specmcf_3 score = 9697.22, cost = 8394.42, cpi = 1.155199
+specmcf_4 score = 10140.60, cost = 8779.42, cpi = 1.155043
+Best CPI for specmcf: specmcf_5 = 1.108120
+Best score for specmcf: specmcf_0 = 821.91
+
+Benchmark spechmmer:
+spechmmer_0 score = 2504.70, cost = 2102.42, cpi = 1.191346
+spechmmer_1 score = 2554.52, cost = 2150.42, cpi = 1.187917
+spechmmer_5 score = 2763.26, cost = 2345.55, cpi = 1.178082
+spechmmer_4 score = 2768.01, cost = 2345.49, cpi = 1.180142
+spechmmer_2 score = 2778.50, cost = 2342.42, cpi = 1.186170
+spechmmer_3 score = 2779.02, cost = 2343.42, cpi = 1.185883
+Best CPI for spechmmer: spechmmer_5 = 1.178082
+Best score for spechmmer: spechmmer_0 = 2504.70
+
+Benchmark specsjeng:
+specsjeng_0 score = 22085.96, cost = 2150.42, cpi = 10.270554
+specsjeng_1 score = 24026.13, cost = 2339.42, cpi = 10.270140
+specsjeng_4 score = 44386.11, cost = 8582.55, cpi = 5.171666
+specsjeng_3 score = 46376.34, cost = 8967.55, cpi = 5.171570
+specsjeng_2 score = 58353.32, cost = 8587.49, cpi = 6.795158
+Best CPI for specsjeng: specsjeng_3 = 5.171570
+Best score for specsjeng: specsjeng_0 = 22085.96
+
+Benchmark speclibm:
+speclibm_0 score = 7505.31, cost = 2148.42, cpi = 3.493415
+speclibm_1 score = 7512.30, cost = 2150.42, cpi = 3.493415
+speclibm_4 score = 16882.37, cost = 8486.55, cpi = 1.989308
+speclibm_3 score = 21868.85, cost = 8487.49, cpi = 2.576600
+speclibm_2 score = 29628.49, cost = 8490.42, cpi = 3.489639
+Best CPI for speclibm: speclibm_4 = 1.989308
+Best score for speclibm: speclibm_0 = 7505.31
