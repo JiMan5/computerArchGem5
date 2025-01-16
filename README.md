@@ -170,15 +170,15 @@
 | speclibm   |  0.174671  |  3.493415  |  0.060972  |  0.000094  |  0.999944  |
 
 Κι εδώ παρατίθονται τα γραφήματα:
-![sim seconds graph](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/sim_seconds.png)
+![sim seconds graph](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_step1/part2_step1_q1/graphs_part2_q2/sim_seconds.png)
 
-![cpi graph](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/system_cpu_cpi.png)
+![cpi graph](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_step1/part2_step1_q1/graphs_part2_q2/system_cpu_cpi.png)
 
-![L1 data miss rate](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/system_cpu_dcache_overall_miss_rate_total.png)
+![L1 data miss rate](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_step1/part2_step1_q1/graphs_part2_q2/system_cpu_dcache_overall_miss_rate_total.png)
 
-![L1 instructions miss rate](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/system_cpu_icache_overall_miss_rate_total.png)
+![L1 instructions miss rate](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_step1/part2_step1_q1/graphs_part2_q2/system_cpu_icache_overall_miss_rate_total.png)
 
-![L2 miss rate](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_q1/graphs_part2_q2/system_l2_overall_miss_rate_total.png)
+![L2 miss rate](https://github.com/JiMan5/computerArchGem5/blob/main/part_2/part2_step1/part2_step1_q1/graphs_part2_q2/system_l2_overall_miss_rate_total.png)
 
 Από τον πίνακα με τα δεδομένα, που έπειτα αναπαρίστανται και σε γραφήματα, παρατηρώ πως το χειρότερο από τα benchmarks είναι το
 specsjeng, το οποίο έχει τον μεγαλύτερο ρυθμό αστοχίας της L1 data cache και L2 cache. Το specmcf, παρόλο που έχει τη χειρότερη απόδοση με μεγάλη διαφορά όσον αφορά τον ρυθμό αστοχίας της L1 instruction cache επιτυγχάνει τον δεύτερο καλύτερο CPI. Αυτό συμβαίνει επειδή η L2 cache είναι πολύ πιο αργή από την L1 και η έλλειψη απόδοσης σε αυτήν μπορεί να καθιστά την CPU πολύ αργή. Το spechmmer αποτελεί την καλύτερη εκτέλεση με cpi = 1.187917.
